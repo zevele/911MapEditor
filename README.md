@@ -1,5 +1,5 @@
 # NineOneOneMapEditor
-This is an empty public repository to share the binaries and information about the editor.
+This is an empty public repository to share the editor binaries and information about it.
 ## Overview
 A map editor for [911Operator](http://jutsugames.com/911/).<br>
 A more detailed tutorial can be found on <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2461288197">Steam</a> or <a href="https://github.com/zevele/911MapEditor/blob/main/Guide/Tutorial.md">here</a><br>
