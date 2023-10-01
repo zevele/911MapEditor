@@ -21,6 +21,5 @@ OSM map rendering is somewhat buggy (especailly with the nasty coastlines).<br>
 This is very much work in progress - so expect many bugs.<br>
 
 ## Download
-<a id="raw-url" href="https://github.com/zevele/911MapEditor/releases/download/20221028/NineOneOneMapViewer.exe">NineOneOneMapViewer.exe</a>
-
+<a id="raw-url" href="https://github.com/zevele/911MapEditor/releases/download/20230504.1/NineOneOneMapViewer.exe">NineOneOneMapViewer.exe</a>
 
